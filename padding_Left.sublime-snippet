@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[android:paddingLeft=""]]></content>
+    <tabTrigger>pad</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>

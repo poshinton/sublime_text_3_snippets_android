@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[android:id="@+id/"]]></content>
+    <tabTrigger>id</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>

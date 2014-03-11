@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[android:src="@drawable/"]]></content>
+    <tabTrigger>src</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>

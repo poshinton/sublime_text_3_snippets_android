@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[android:gravity="left"]]></content>
+    <tabTrigger>gra</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>

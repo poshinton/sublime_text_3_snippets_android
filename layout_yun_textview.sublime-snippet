@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+android:shadowColor="#000000"
+android:shadowDx="2"
+android:shadowDy="2"
+android:shadowRadius="2"]]></content>
+    <tabTrigger>shad</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>

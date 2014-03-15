@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[System.out.println("");]]></content>
+    <tabTrigger>System</tabTrigger>
+ 
+
+</snippet>

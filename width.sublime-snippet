@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[layout_width=""]]></content>
-    <tabTrigger>wi</tabTrigger>
+    <content><![CDATA[android:layout_width=""]]></content>
+    <tabTrigger>width</tabTrigger>
  <!--   <scope>source.xml</scope>  -->
 
 </snippet>

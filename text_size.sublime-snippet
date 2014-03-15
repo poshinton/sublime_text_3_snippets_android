@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[android:textSize="18sp"]]></content>
+    <tabTrigger>textsize</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>

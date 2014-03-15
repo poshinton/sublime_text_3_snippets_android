@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[try{
+
+    	}
+    	catch(Exception e){
+    		System.out.println(e);
+    	}]]></content>
+    <tabTrigger>try</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>

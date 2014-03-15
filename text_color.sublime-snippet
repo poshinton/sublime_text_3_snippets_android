@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[android:textColor="#ffffff"]]></content>
+    <tabTrigger>textcolor</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>

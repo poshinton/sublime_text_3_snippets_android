@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[android:orientation="vertical"]]></content>
+    <tabTrigger>orientantion</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>

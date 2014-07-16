@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[android:android:layout_alignParentTop="true"]]></content>
+    <content><![CDATA[android:layout_alignParentTop="true"]]></content>
     <tabTrigger>ali</tabTrigger>
  <!--   <scope>source.xml</scope>  -->
 

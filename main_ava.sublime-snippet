@@ -2,7 +2,7 @@
     <content><![CDATA[public static void main  (String args[]){
 		
 	}]]></content>
-    <tabTrigger>bash</tabTrigger>
+    <tabTrigger>static</tabTrigger>
  
 
 </snippet>

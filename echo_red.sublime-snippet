@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[echo -e "\033[31m红色文字\033[0m"]]></content>
+    <tabTrigger>error</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>

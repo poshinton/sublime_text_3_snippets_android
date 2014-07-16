@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[android:visibility="gone"]]></content>
+    <tabTrigger>vis</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>

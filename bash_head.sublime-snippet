@@ -4,10 +4,10 @@
 #制作者：陈云
 #写于2014年3月 窝窝
 #写于2014年4月 深圳语信公司
-
-PATH=/bin:/sbin:/usr/bin:usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
-export PATH]]>]]></content>
-    <tabTrigger>public</tabTrigger>
+#写于2014年6月 深圳语信公司
+PATH=/bin:/sbin:/usr/bin:usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin:~/yun
+export PATH]]></content>
+    <tabTrigger>bash</tabTrigger>
  
 
 </snippet>

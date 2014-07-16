@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[android:layout_alignParentBottom="true"]]></content>
+    <tabTrigger>ali</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>

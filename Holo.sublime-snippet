@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[android:theme="@android:style/Theme.Holo"]]></content>
+    <tabTrigger>theme</tabTrigger>
+ 
+
+</snippet>

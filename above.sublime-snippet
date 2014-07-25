@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[android:layout_above="@id/"]]></content>
+    <tabTrigger>above</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>

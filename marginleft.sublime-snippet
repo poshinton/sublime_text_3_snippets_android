@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[android:layout_marginLeft="dip"]]></content>
+    <tabTrigger>margin</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[echo -e "\033[37m黄色文字\033[0m"]]></content>
+    <content><![CDATA[echo -e "\033[33m黄色文字\033[0m"]]></content>
     <tabTrigger>warning</tabTrigger>
  <!--   <scope>source.xml</scope>  -->
 

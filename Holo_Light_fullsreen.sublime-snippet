@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[android:theme="@android:style/Theme.Holo.Light.NoActionBar.Fullscreen"]]></content>
+    <tabTrigger>theme</tabTrigger>
+ 
+
+</snippet>

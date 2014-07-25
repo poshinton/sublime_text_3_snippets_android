@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[android:layout_toRightOf="@id/"]]></content>
+    <tabTrigger>toright</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>

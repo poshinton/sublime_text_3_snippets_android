@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[android:layout_weight="1"]]></content>
+    <tabTrigger>weight</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>

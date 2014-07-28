@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[android:paddingButtom=""]]></content>
+    <content><![CDATA[android:paddingBottom=""]]></content>
     <tabTrigger>pad</tabTrigger>
  <!--   <scope>source.xml</scope>  -->
 

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[if [ ! -d "/foldername" ]; then
+  #mkdir /myfolder
+fi]]></content>
+    <tabTrigger>folder</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>

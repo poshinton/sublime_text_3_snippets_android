@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[DATE=`date "+%Y%m%d%H%M" `]]></content>
+    <tabTrigger>date</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>

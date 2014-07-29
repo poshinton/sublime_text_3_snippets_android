@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LinearLayout >]]></content>
+    <tabTrigger>linearLayout</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>

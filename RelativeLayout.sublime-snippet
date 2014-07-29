@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[RelativeLayout >]]></content>
+    <tabTrigger>relative</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>

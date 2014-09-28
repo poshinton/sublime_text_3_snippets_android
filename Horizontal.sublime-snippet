@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[android:layout_centerHorizontal="true"]]></content>
+    <tabTrigger>center</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>

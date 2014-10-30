@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[<center><font color="#fff">
+
+
+<br>
+    	</font>
+</center>
+]]></content>
+    <tabTrigger>poem</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>

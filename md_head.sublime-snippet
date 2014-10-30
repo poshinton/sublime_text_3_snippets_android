@@ -1,14 +1,13 @@
 <snippet>
     <content><![CDATA[---
 layout: post
-title: 
-category: 综合
+title:
+category: android
 ---
 
-
-=========]]></content>
+]]></content>
     <tabTrigger>markdown</tabTrigger>
- 
+
 
 </snippet>
 

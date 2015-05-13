@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[print '\033[0;32m',
+print 'green'
+print '\033[0m',]]></content>
+    <tabTrigger>print_green</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>

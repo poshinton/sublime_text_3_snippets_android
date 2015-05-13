@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[print time.strftime('%Y-%m-%d',time.localtime(time.time()))]]></content>
+    <tabTrigger>date_simple_python</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>
+

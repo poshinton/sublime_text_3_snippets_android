@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[print time.strftime('%Y年%m月%d日%H时%M分 周%w',time.localtime(time.time()))]]></content>
+    <tabTrigger>date_info_python</tabTrigger>
+ <!--   <scope>source.xml</scope>  -->
+
+</snippet>
